@@ -1,4 +1,4 @@
 anthropic==0.102.0
 flask==3.1.2
 gunicorn==26.0.0
-python-dotenv==3.0.2
+python-dotenv==1.0.1
